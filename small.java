@@ -4,7 +4,7 @@ public static int findSmallest(int[] arr) {
     for (int i = 1; i < arr.length; i++) {
         if (arr[i] < min) {
             min = arr[i];
-        }
+         }
     }
     return min;
 }
