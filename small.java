@@ -6,5 +6,5 @@ public static int findSmallest(int[] arr) {
             min = arr[i];
          }
     }
-    return min;
+     return min;
 }
